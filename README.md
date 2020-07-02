@@ -1,1 +1,1 @@
-# Zend2-ExtsJs
+# Zend2-ExtsJs (ugly and naive!)

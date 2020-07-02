@@ -1,0 +1,6 @@
+{
+  "leaf": false,
+  "children": [
+    { "text": "Articles", "iconCls": "x-fa fa-home", "xtype": "articlesview", "leaf": true }
+  ]
+}
